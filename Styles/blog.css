@@ -1,0 +1,124 @@
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* header  */
+
+.header{
+    background-image: url('../images/Hero-bg.png'), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
+.footer{
+    background-image: url('../images/handshake.jpg'), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: white;
+    padding: auto;
+
+  
+}
+div{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 1285px;
+    
+}
+
+/* div ul {
+    display: flex;
+    align-items: center;
+    
+} */
+
+div ul li {
+    list-style: none;
+    margin-right: 51px;
+}
+.div-title {
+    font-weight: 800px;
+    font-size: 28px;
+    color: #0D1321;
+    align-items: center;
+
+}
+
+
+ button{
+    width: 20px 20px 20px;
+    font-family: "Azeret Mono", monospace;
+ }
+ .btn-primary {
+    background-color: black;
+    font-weight: bold;
+    color:white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    align-items: center;
+ }
+ .btn-contact {
+    background-color: white;
+    color: aliceblue;
+ }
+ /* div li:hover{
+    background-color: blueviolet;
+   width: 1500px;
+   align-self: center;
+ } */
+
+ .change-world {
+    display: flex;
+    width: 1555px;
+ }
+ .inline-world {
+    width: 850px;
+ }
+ .learn-more {
+    background-color: none;
+    font-weight: bold;
+    color:#0D1321;
+    padding: 15px 20px;
+    justify-items: left;
+    align-items: inline;
+   
+ }
+ .Group-3 {
+    display: ;
+ }
+form label {
+    margin: flex; 
+    width: 585px;
+}
+ .suggest-me {
+    
+    background-color: none;
+    margin: flex;
+    font-weight: bold;
+    color:#0D1321;
+    padding: 15px 20px;
+    justify-items: center;
+    align-items: inline;
+ }
+ .change-world-2 {
+   justify-items: center;
+    /* width: 1555px; */
+ }
+ .inline-world-2{
+    /* width: 850px; */
+ }
+ .bor-youtube {
+    border-radius: 10px;
+ }
+ .btn-support {
+    background-color: white; */
+    /* color: aliceblue;
+ }
+
